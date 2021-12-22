@@ -26,7 +26,10 @@ date: "2021년 12월"
 
 
 ## 01 Create Data
-  
+* 대학 중도탈락자를 예측할만한 데이터를 쉽게 구할 수 없으므로 유사 데이터를 바탕으로 생성
+* 총 28개 컬럼(기본 변수 11개,  파생 변수 17개)의 데이터를 생성함 ![image](https://user-images.githubusercontent.com/80229869/147013741-792d0083-b1e9-4b9d-8bca-c88afc28bc43.png)
+
+
   
 ## 02 Data Check
 
