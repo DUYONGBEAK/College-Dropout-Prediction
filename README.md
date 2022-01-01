@@ -24,6 +24,7 @@ date: "2021년 12월"
   * join_1years_ago join_2years_ago join_3years_ago join_4years_ago join_this_year : 년도별 교내프로그램 참가 횟수
   * off_1years_ago off_2years_ago off_3years_ago off_4years_ago off_this_year : 년도별 휴학 여부
 
+*** create data부분의 원본 데이터는 업로드 안함
 
 ## 01 Create Data
 * 대학 중도탈락자를 예측할만한 데이터를 쉽게 구할 수 없으므로 유사 데이터를 바탕으로 생성
